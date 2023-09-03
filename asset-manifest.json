@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/https//paklic9.github.io/json-form-creator/static/css/main.0a5a3566.css",
-    "main.js": "/https//paklic9.github.io/json-form-creator/static/js/main.fe89674d.js",
-    "index.html": "/https//paklic9.github.io/json-form-creator/index.html",
-    "main.0a5a3566.css.map": "/https//paklic9.github.io/json-form-creator/static/css/main.0a5a3566.css.map",
-    "main.fe89674d.js.map": "/https//paklic9.github.io/json-form-creator/static/js/main.fe89674d.js.map"
+    "main.css": "/json-form-creator/static/css/main.0a5a3566.css",
+    "main.js": "/json-form-creator/static/js/main.fe89674d.js",
+    "index.html": "/json-form-creator/index.html",
+    "main.0a5a3566.css.map": "/json-form-creator/static/css/main.0a5a3566.css.map",
+    "main.fe89674d.js.map": "/json-form-creator/static/js/main.fe89674d.js.map"
   },
   "entrypoints": [
     "static/css/main.0a5a3566.css",
