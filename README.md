@@ -2,7 +2,7 @@
 
 This is really simple application for creating forms from JSON.
 
-You can find demo at this url: 
+You can find demo at this url: https://paklic9.github.io/json-form-creator/
 
 ## Pre requirements
 
