@@ -7,10 +7,7 @@ You can find demo at this url:
 ## Pre requirements
 
 #### - node.js
-#### - yarn
-#### - serve in your yarn (if you want to run production build)
-
-To add `serve` to your yarn installation: `yarn global add serve` <br />
+#### - yarn (npm)
 
 ## Available commands
 
@@ -32,7 +29,3 @@ You will also see any lint errors in the console.
 
 Builds the app for production to the `build` folder.<br />
 It correctly bundles React in production mode and optimizes the build for the best performance.
-
-### `serve -s build`
-
-Runs the app in the production version from `build` folder.

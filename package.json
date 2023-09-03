@@ -1,7 +1,7 @@
 {
   "homepage": "https//paklic9.github.io/json-form-creator",
   "name": "json-form-creator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
@@ -19,7 +19,7 @@
     "web-vitals": "^2.1.0"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
