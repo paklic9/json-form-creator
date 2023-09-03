@@ -1,0 +1,40 @@
+{
+  "title": "Person",
+  "buttons": [{
+    "label": "OK",
+    "type": "saveWithReset"
+  },
+    {
+      "label": "Cancel",
+      "type": "reset"
+    },
+    {
+      "label": "Apply",
+      "type": "save"
+    }],
+  "items": [{
+    "label": "age",
+    "type": "number"
+  },
+    {
+      "label": "name",
+      "type": "string"
+    },
+    {
+      "label": "description",
+      "type": "text"
+    },
+    {
+      "label": "public",
+      "type": "boolean"
+    },
+    {
+      "label": "birthday",
+      "type": "date"
+    },
+    {
+      "label": "sex",
+      "type": "list",
+      "labels": ["Male", "Female", "Other"]
+    }]
+}

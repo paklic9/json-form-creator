@@ -1,0 +1,83 @@
+.pageContentWrapper {
+    margin: 15px;
+}
+
+.content {
+    max-width: 500px;
+    min-height: 465px;
+    max-height: 465px;
+    border: 1px solid black;
+    padding: 15px;
+}
+
+.configWrapper {
+
+}
+
+.configWrapper textarea {
+    min-height: 400px;
+    width: calc(100% - 10px);
+    resize: none;
+}
+
+.applyConfigBtnWrapper, .resultWrapper .fromButtons {
+    margin-top: 30px;
+    width: 100%;
+    text-align: right;
+}
+
+.resultWrapper .title {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.resultWrapper .fromContent {
+    min-height: 370px;
+    max-height: 370px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+button {
+    background: rgb(232,232,232);
+}
+
+.fromButtons button, .navigationButtons button {
+    border: 1px solid black;
+}
+
+.navigationButtons button {
+    min-width: 120px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    background: white;
+    border-bottom: none;
+    height: 30px;
+}
+
+.navigationButtons button.selected {
+    background: rgb(232,232,232);
+}
+
+.fromButtons button, .applyConfigBtnWrapper button {
+    margin-right: 5px;
+    min-width: 90px;
+    border-radius: 4px;
+    height: 25px;
+}
+
+.fromContent .inputLabel {
+    display: inline-block;
+    min-width: 150px;
+}
+
+.fromContent .inputWrapper {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: flex-start;
+}
+
+.listWrapper, .listInputWrapper {
+    width: 100%;
+    display: block;
+}
